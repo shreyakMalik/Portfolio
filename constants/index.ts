@@ -164,7 +164,7 @@ export const Backend_skill = [
     },
     {
         skill_name: "Amazon Ec2",
-        Image: "/ec2.svg",
+        Image: "/Ec2.svg",
         width: 40,
         height: 40,
     },
