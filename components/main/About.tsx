@@ -41,7 +41,7 @@ const About = () => {
                             variants={slideInFromLeft(0.5)}
                             className="flex flex-col items-center w-auto h-auto rounded-full overflow-hidden border-[6px] border-[#7042f88b] bg-gradient-to-r from-purple-500 to-cyan-500"
                         >
-                            <img src="/shreyak.jpg" alt="profile" width={250} />
+                            <img src="/Shreyak.jpg" alt="profile" width={250} />
                         </motion.div>
                     )}
                 </InView>
